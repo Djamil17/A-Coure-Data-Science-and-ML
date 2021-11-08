@@ -1,2 +1,2 @@
-# A-Coure-Data-Science-and-ML
+# A coures in ML
 Sketches of a course in ML
